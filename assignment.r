@@ -1,4 +1,4 @@
-> # TraMineR course assignment 2
+> # TraMineR course assignment 3
 > 
 > #Load biofam data
 > 
